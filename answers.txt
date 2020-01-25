@@ -1,0 +1,6 @@
+Open question for online discussion: - 
+
+You need to implement a smart contract that keeps track of assigned admin.
+
+You can do this in a separate contract as well as the same contract
+and store admin addresses in a struct/ array data structure and create a function which gives if the address is admin or not

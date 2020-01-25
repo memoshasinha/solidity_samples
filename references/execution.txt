@@ -1,0 +1,8 @@
+
+banks mapping gave - 
+0xFf4340a554514500EED5837E201C0723E99e1F22
+
+banks list 
+ address: 0xdD870fA1b7C4700F2BD7f44238821C26f7392148 address given while creation
+
+

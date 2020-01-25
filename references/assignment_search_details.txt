@@ -1,0 +1,57 @@
+https://github.com/adityasingh177/kyc-blockchain
+
+
+https://github.com/zcom-cloud-blockchain/oss-kyc
+
+https://www.irjet.net/archives/V5/i8/IRJET-V5I8204.pdf
+
+
+
+Reading materials:
+https://medium.com/newcryptoblock/best-practices-in-solidity-b324b65d33b1
+
+https://blockgeeks.com/guides/what-is-blockchain-technology/
+
+https://steemit.com/blockchain/@michele.daliessi/how-does-the-blockchain-work
+
+http://www.ybrikman.com/writing/2014/04/24/bitcoin-by-analogy/
+
+http://scet.berkeley.edu/wp-content/uploads/AIR-2016-Blockchain.pdf
+
+
+
+Blockchain based IoT/ITS
+
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7467408
+
+https://arxiv.org/ftp/arxiv/papers/1608/1608.05187.pdf
+
+http://ieeexplore.ieee.org/abstract/document/7890132/
+
+http://delivery.acm.org/10.1145/3060000/3055003/p173-Dorri.pdf?ip=182.71.179.101&id=3055003&acc=OA&key=045416EF4DDA69D9%2EE5BF2DC63B581656%2E4D4702B0C3E38B35%2E86868C05795F482A&CFID=900205175&CFTOKEN=22000145&acm=1502260296_602582454c076f84dfb9d3961dcca28a
+
+
+
+Blockchain based ITS
+
+https://www.researchgate.net/profile/Yong_Yuan14/publication/311919998_Towards_blockchain-based_intelligent_transportation_systems/links/5875d46f08ae329d62211b4c/Towards-blockchain-based-intelligent-transportation-systems.pdf
+
+http://delivery.acm.org/10.1145/2980000/2971409/p137-leiding.pdf?ip=182.71.179.101&id=2971409&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2EE5BF2DC63B581656%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=900205175&CFTOKEN=22000145&_
+
+_acm__=1502260505_81dd8afeccb5889cc50a47e330d8684a
+
+https://arxiv.org/ftp/arxiv/papers/1707/1707.07442.pdf
+
+
+Blockchain related
+
+PerCoin https://drive.google.com/file/d/0B7P3p2U07p05QXFwZmtsOVhTZTA/view?usp=drivesdk
+
+HasnCash https://en.bitcoin.it/wiki/Hashcash
+
+Source code http://www.hashcash.org
+
+Byzantine failure https://www.microsoft.com/en-us/research/publication/byzantine-generals-problem/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Fbyz.pdf
+
+Proof of stake https://en.bitcoin.it/wiki/Proof_of_Stake
+ 

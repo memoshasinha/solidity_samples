@@ -1,0 +1,31 @@
+1. How to check if a struct is null in Solidity?
+2. Regarding the documentation can we use soldoc plugin in VScode?
+3. Can there be multiple KYC requests for same customer?
+4. As per the assignment details, to get the bank details we need to return type of Bank. But return type as struct is giving error.
+This type is only supported in the new experimental ABI encoder. Use "pragma experimental ABIEncoderV2;" to enable the feature.
+
+the Bank is a supposed to be a struct as per instructions and as shared in link
+(https://solidity.readthedocs.io/en/v0.5.3/contracts.html) above we need to create a contract and then we can return that object. Please explain 
+
+5. a - 10 to B (loan kind)
+   a - 10 to C (loan kind)
+   Double spending the same 10 rupee value in account. Bank keep tracks of transactions.
+   How does double spending is avoided using nonce?
+   cannot use the same starting balance. nonce in transaction is incremented everytime new transaction is sent.
+   EVM is responsible for adding nonce. Validation will fail even if evm is hacked.
+   Input is output from previous transaction. 
+
+   payable if function can accepts ethers. for ex 
+   buy tokens from app. 
+   
+   payable doesnot affect the gas cost
+
+   blockchain for roaming transactions
+
+   Data is very expensive on solidity.
+
+   webstrom
+   
+   multiple contracts in one solidity file what will happen?
+   Will all be deployed?
+   last smart contract will be deployed

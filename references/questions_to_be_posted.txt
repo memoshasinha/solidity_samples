@@ -1,0 +1,8 @@
+Open items: -
+
+    • View Customer - This function allows a bank to view details of a customer.
+        ◦ Parameters - Customer name as string and password as string. 
+        If the password is not set for the customer, then the incoming password string should be equal to "0".
+
+Admin interface - questions to be posted in assignment discussion time
+1. Should there be a check whether the bank already exists in the list(mapping) in addBank function?
