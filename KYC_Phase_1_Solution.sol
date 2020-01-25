@@ -107,7 +107,7 @@ contract kyc {
      */
     function removeKYCRequest(string memory _userName) public returns (uint8) {
         uint8 i=0;
-        for (uint256 j = 0; j< customerDataList.length; j++) {
+        for (uint256 j = 0; j < customerDataList.length; j++) {
             if (stringsEquals(kycRequests[customerDataList[i]].userName,_userName)) {
                 delete kycRequests[customerDataList[i]];
                 for(uint j = i+1;j < customerDataList.length;j++) 

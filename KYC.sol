@@ -316,7 +316,6 @@ contract Banks is Admin{
         bytes32[] memory customerDatas = new bytes32[](requestsLength);
         address[] memory bankAddresses = new address[](requestsLength);
         bool[] memory allows = new bool[](requestsLength);
-        
         for (uint256 i = 0; i < requestsLength; i++){
             if (kycRequests[customerDataList[i]].bankAddress == _bank) {
                 KYCRequest storage req = kycRequests[customerDataList[i]];
@@ -344,10 +343,9 @@ contract Banks is Admin{
     }
     /**
      * fetch customer rating from the smart contract.
-     * @param ratingOf customer name 
+     * @param ratingOf customer name
      * @return public view returns(uint)
      */
-  
     function getCustomerRating(bytes32 ratingOf) public view returns(uint){
         return customers[ratingOf].rating;
     }
@@ -366,7 +364,6 @@ contract Banks is Admin{
      */
     function getAccessHistory(bytes32 accessHistoryFor) public view returns(address){
         return customers[accessHistoryFor].bank;
-        
     }
     /**
      * set the passwords for the customer
